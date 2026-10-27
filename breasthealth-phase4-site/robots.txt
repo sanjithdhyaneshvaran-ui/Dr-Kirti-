@@ -1,0 +1,3 @@
+# Draft test copy for team review. Keep search engines out so it never competes with www.breasthealth.co.in.
+User-agent: *
+Disallow: /

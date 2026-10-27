@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/(.*)\\.php", "destination": "/$1.html" }
+  ],
+  "headers": [
+    { "source": "/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] }
+  ]
+}
